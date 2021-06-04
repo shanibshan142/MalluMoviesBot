@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        
-        
-    ],[
         InlineKeyboardButton('JOIN OUR GROUP', url='https://t.me/MalluMovies_World'),
+        InlineKeyboardButton('JOIN OUR CHANNEL', url='https://t.me/joinchat/MrIwUeDPQj1hYjZl'),
+    ],[
+        
     ],[
        
     ]]
