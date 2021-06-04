@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b><u>Hey {} Hi!!</b></u>
+    START_TEXT = """<b><u>Hey {} How Are You!!</b></u>
 <i>Am Just A Filter Bot....😉
 
 You can't add me to Your Group
